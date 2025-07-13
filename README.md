@@ -20,15 +20,15 @@ Challenge your friends or test your skills against our **smart AI** in this beau
 
 | Game Start Menu | Game Board |
 |-----------------|------------|
-| ![Menu](screenshots/menu.png) | ![Game](screenshots/game1.png) |
+| ![Menu](https://raw.githubusercontent.com/rupa-1122/Tic-Tac-Toe/refs/heads/main/Screenshots/TTT3.png) | ![Game](screenshots/game1.png) |
 | Game in Progress |
-| ![Game in Play](screenshots/game2.png) |
+| ![Game in Play](https://raw.githubusercontent.com/rupa-1122/Tic-Tac-Toe/refs/heads/main/Screenshots/TTT2.png) |
 
 ---
 
 ## 🔗 Live Demo
 
-👉 [Play Now](#)  
+👉 [https://rupa-1122.github.io/Tic-Tac-Toe/](#)  
 <sub>(Replace `#` with your actual GitHub Pages or deployment link)</sub>
 
 ---
