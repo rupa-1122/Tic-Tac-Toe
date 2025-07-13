@@ -2,7 +2,7 @@
 
 Challenge your friends or test your skills against our **smart AI** in this beautifully designed Tic Tac Toe game!
 
-![Menu](screenshots/menu.png)
+![Menu](https://raw.githubusercontent.com/rupa-1122/Tic-Tac-Toe/refs/heads/main/Screenshots/TTT3.png)
 
 ---
 
@@ -28,8 +28,8 @@ Challenge your friends or test your skills against our **smart AI** in this beau
 
 ## 🔗 Live Demo
 
-👉 [https://rupa-1122.github.io/Tic-Tac-Toe/](#)  
-<sub>(Replace `#` with your actual GitHub Pages or deployment link)</sub>
+👉 [Play Now](https://rupa-1122.github.io/Tic-Tac-Toe/)  
+
 
 ---
 
